@@ -1,5 +1,5 @@
 **Movie Script Summarization** <br>
-This repository showcases the final group project for the W266 Natural Language Processing course taken in April 2023. The project explored movie script summarization techniques. For this project, we focused on "Avatar" to evaluate how different models summarize the movie plot.
+This repository showcases the final group project (Andy Fiegleman, Harry Lu, Stephen Tan) for the W266 Natural Language Processing course taken in April 2023. The project explored movie script summarization techniques. For this project, we focused on "Avatar" to evaluate how different models summarize the movie plot.
 
 **Project Highlights** <br>
 - Analyzed a movie corpus dataset with nearly 3,000 screenplays in various text formats.
